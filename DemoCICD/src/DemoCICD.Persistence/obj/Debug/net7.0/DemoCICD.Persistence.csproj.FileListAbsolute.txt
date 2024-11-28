@@ -1,0 +1,15 @@
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Persistence\bin\Debug\net7.0\DemoCICD.Persistence.deps.json
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Persistence\bin\Debug\net7.0\DemoCICD.Persistence.dll
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Persistence\bin\Debug\net7.0\DemoCICD.Persistence.pdb
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Persistence\bin\Debug\net7.0\DemoCICD.Domain.dll
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Persistence\bin\Debug\net7.0\DemoCICD.Domain.pdb
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Persistence\obj\Debug\net7.0\DemoCICD.Persistence.csproj.AssemblyReference.cache
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Persistence\obj\Debug\net7.0\DemoCICD.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Persistence\obj\Debug\net7.0\DemoCICD.Persistence.AssemblyInfoInputs.cache
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Persistence\obj\Debug\net7.0\DemoCICD.Persistence.AssemblyInfo.cs
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Persistence\obj\Debug\net7.0\DemoCICD.Persistence.csproj.CoreCompileInputs.cache
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Persistence\obj\Debug\net7.0\DemoCICD.Persistence.csproj.CopyComplete
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Persistence\obj\Debug\net7.0\DemoCICD.Persistence.dll
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Persistence\obj\Debug\net7.0\refint\DemoCICD.Persistence.dll
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Persistence\obj\Debug\net7.0\DemoCICD.Persistence.pdb
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Persistence\obj\Debug\net7.0\ref\DemoCICD.Persistence.dll

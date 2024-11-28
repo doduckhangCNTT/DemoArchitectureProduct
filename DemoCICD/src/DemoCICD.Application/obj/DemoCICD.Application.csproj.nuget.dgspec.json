@@ -1,0 +1,342 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Work\\Web\\BackEnd\\ASP.NET\\StructureCodeSetupCICD\\DemoCICD\\src\\DemoCICD.Application\\DemoCICD.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\Work\\Web\\BackEnd\\ASP.NET\\StructureCodeSetupCICD\\DemoCICD\\src\\DemoCICD.Application\\DemoCICD.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Work\\Web\\BackEnd\\ASP.NET\\StructureCodeSetupCICD\\DemoCICD\\src\\DemoCICD.Application\\DemoCICD.Application.csproj",
+        "projectName": "DemoCICD.Application",
+        "projectPath": "D:\\Work\\Web\\BackEnd\\ASP.NET\\StructureCodeSetupCICD\\DemoCICD\\src\\DemoCICD.Application\\DemoCICD.Application.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Work\\Web\\BackEnd\\ASP.NET\\StructureCodeSetupCICD\\DemoCICD\\src\\DemoCICD.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Work\\Web\\BackEnd\\ASP.NET\\StructureCodeSetupCICD\\DemoCICD\\src\\DemoCICD.Contract\\DemoCICD.Contract.csproj": {
+                "projectPath": "D:\\Work\\Web\\BackEnd\\ASP.NET\\StructureCodeSetupCICD\\DemoCICD\\src\\DemoCICD.Contract\\DemoCICD.Contract.csproj"
+              },
+              "D:\\Work\\Web\\BackEnd\\ASP.NET\\StructureCodeSetupCICD\\DemoCICD\\src\\DemoCICD.Domain\\DemoCICD.Domain.csproj": {
+                "projectPath": "D:\\Work\\Web\\BackEnd\\ASP.NET\\StructureCodeSetupCICD\\DemoCICD\\src\\DemoCICD.Domain\\DemoCICD.Domain.csproj"
+              },
+              "D:\\Work\\Web\\BackEnd\\ASP.NET\\StructureCodeSetupCICD\\DemoCICD\\src\\DemoCICD.Persistence\\DemoCICD.Persistence.csproj": {
+                "projectPath": "D:\\Work\\Web\\BackEnd\\ASP.NET\\StructureCodeSetupCICD\\DemoCICD\\src\\DemoCICD.Persistence\\DemoCICD.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "SonarAnalyzer.CSharp": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.7.0.75501, )"
+            },
+            "StyleCop.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Work\\Web\\BackEnd\\ASP.NET\\StructureCodeSetupCICD\\DemoCICD\\src\\DemoCICD.Contract\\DemoCICD.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Work\\Web\\BackEnd\\ASP.NET\\StructureCodeSetupCICD\\DemoCICD\\src\\DemoCICD.Contract\\DemoCICD.Contract.csproj",
+        "projectName": "DemoCICD.Contract",
+        "projectPath": "D:\\Work\\Web\\BackEnd\\ASP.NET\\StructureCodeSetupCICD\\DemoCICD\\src\\DemoCICD.Contract\\DemoCICD.Contract.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Work\\Web\\BackEnd\\ASP.NET\\StructureCodeSetupCICD\\DemoCICD\\src\\DemoCICD.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Ardalis.SmartEnum": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "SonarAnalyzer.CSharp": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.7.0.75501, )"
+            },
+            "StyleCop.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Work\\Web\\BackEnd\\ASP.NET\\StructureCodeSetupCICD\\DemoCICD\\src\\DemoCICD.Domain\\DemoCICD.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Work\\Web\\BackEnd\\ASP.NET\\StructureCodeSetupCICD\\DemoCICD\\src\\DemoCICD.Domain\\DemoCICD.Domain.csproj",
+        "projectName": "DemoCICD.Domain",
+        "projectPath": "D:\\Work\\Web\\BackEnd\\ASP.NET\\StructureCodeSetupCICD\\DemoCICD\\src\\DemoCICD.Domain\\DemoCICD.Domain.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Work\\Web\\BackEnd\\ASP.NET\\StructureCodeSetupCICD\\DemoCICD\\src\\DemoCICD.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "SonarAnalyzer.CSharp": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.7.0.75501, )"
+            },
+            "StyleCop.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Work\\Web\\BackEnd\\ASP.NET\\StructureCodeSetupCICD\\DemoCICD\\src\\DemoCICD.Persistence\\DemoCICD.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Work\\Web\\BackEnd\\ASP.NET\\StructureCodeSetupCICD\\DemoCICD\\src\\DemoCICD.Persistence\\DemoCICD.Persistence.csproj",
+        "projectName": "DemoCICD.Persistence",
+        "projectPath": "D:\\Work\\Web\\BackEnd\\ASP.NET\\StructureCodeSetupCICD\\DemoCICD\\src\\DemoCICD.Persistence\\DemoCICD.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Work\\Web\\BackEnd\\ASP.NET\\StructureCodeSetupCICD\\DemoCICD\\src\\DemoCICD.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Work\\Web\\BackEnd\\ASP.NET\\StructureCodeSetupCICD\\DemoCICD\\src\\DemoCICD.Domain\\DemoCICD.Domain.csproj": {
+                "projectPath": "D:\\Work\\Web\\BackEnd\\ASP.NET\\StructureCodeSetupCICD\\DemoCICD\\src\\DemoCICD.Domain\\DemoCICD.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "SonarAnalyzer.CSharp": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.7.0.75501, )"
+            },
+            "StyleCop.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

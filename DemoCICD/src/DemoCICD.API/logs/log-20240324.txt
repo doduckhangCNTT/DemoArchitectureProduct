@@ -1,0 +1,11 @@
+2024-03-24 18:12:07.532 +07:00 [WRN] Failed to determine the https port for redirect.
+2024-03-24 18:12:08.798 +07:00 [ERR] Conflicting method/path combination "POST api/v1/Products" for actions - DemoCICD.Presentation.Controllers.V2.ProductsController.Products (DemoCICD.Presentation),DemoCICD.Presentation.Controllers.V1.ProductsController.Products (DemoCICD.Presentation). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/v1/Products" for actions - DemoCICD.Presentation.Controllers.V2.ProductsController.Products (DemoCICD.Presentation),DemoCICD.Presentation.Controllers.V1.ProductsController.Products (DemoCICD.Presentation). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at DemoCICD.API.Middleware.ExceptionHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.API\Middleware\ExceptionHandlingMiddleware.cs:line 17
+2024-03-24 18:13:48.221 +07:00 [WRN] Failed to determine the https port for redirect.

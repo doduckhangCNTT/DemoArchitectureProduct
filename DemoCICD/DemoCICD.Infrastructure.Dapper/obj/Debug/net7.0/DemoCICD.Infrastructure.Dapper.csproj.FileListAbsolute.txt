@@ -1,0 +1,15 @@
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\DemoCICD.Infrastructure.Dapper\bin\Debug\net7.0\DemoCICD.Infrastructure.Dapper.deps.json
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\DemoCICD.Infrastructure.Dapper\bin\Debug\net7.0\DemoCICD.Infrastructure.Dapper.dll
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\DemoCICD.Infrastructure.Dapper\bin\Debug\net7.0\DemoCICD.Infrastructure.Dapper.pdb
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\DemoCICD.Infrastructure.Dapper\bin\Debug\net7.0\DemoCICD.Domain.dll
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\DemoCICD.Infrastructure.Dapper\bin\Debug\net7.0\DemoCICD.Domain.pdb
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\DemoCICD.Infrastructure.Dapper\obj\Debug\net7.0\DemoCICD.Infrastructure.Dapper.csproj.AssemblyReference.cache
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\DemoCICD.Infrastructure.Dapper\obj\Debug\net7.0\DemoCICD.Infrastructure.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\DemoCICD.Infrastructure.Dapper\obj\Debug\net7.0\DemoCICD.Infrastructure.Dapper.AssemblyInfoInputs.cache
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\DemoCICD.Infrastructure.Dapper\obj\Debug\net7.0\DemoCICD.Infrastructure.Dapper.AssemblyInfo.cs
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\DemoCICD.Infrastructure.Dapper\obj\Debug\net7.0\DemoCICD.Infrastructure.Dapper.csproj.CoreCompileInputs.cache
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\DemoCICD.Infrastructure.Dapper\obj\Debug\net7.0\DemoCICD.Infrastructure.Dapper.csproj.CopyComplete
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\DemoCICD.Infrastructure.Dapper\obj\Debug\net7.0\DemoCICD.Infrastructure.Dapper.dll
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\DemoCICD.Infrastructure.Dapper\obj\Debug\net7.0\refint\DemoCICD.Infrastructure.Dapper.dll
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\DemoCICD.Infrastructure.Dapper\obj\Debug\net7.0\DemoCICD.Infrastructure.Dapper.pdb
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\DemoCICD.Infrastructure.Dapper\obj\Debug\net7.0\ref\DemoCICD.Infrastructure.Dapper.dll

@@ -1,0 +1,12 @@
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Contract\bin\Debug\net7.0\DemoCICD.Contract.deps.json
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Contract\bin\Debug\net7.0\DemoCICD.Contract.dll
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Contract\bin\Debug\net7.0\DemoCICD.Contract.pdb
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Contract\obj\Debug\net7.0\DemoCICD.Contract.csproj.AssemblyReference.cache
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Contract\obj\Debug\net7.0\DemoCICD.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Contract\obj\Debug\net7.0\DemoCICD.Contract.AssemblyInfoInputs.cache
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Contract\obj\Debug\net7.0\DemoCICD.Contract.AssemblyInfo.cs
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Contract\obj\Debug\net7.0\DemoCICD.Contract.csproj.CoreCompileInputs.cache
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Contract\obj\Debug\net7.0\DemoCICD.Contract.dll
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Contract\obj\Debug\net7.0\refint\DemoCICD.Contract.dll
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Contract\obj\Debug\net7.0\DemoCICD.Contract.pdb
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Contract\obj\Debug\net7.0\ref\DemoCICD.Contract.dll

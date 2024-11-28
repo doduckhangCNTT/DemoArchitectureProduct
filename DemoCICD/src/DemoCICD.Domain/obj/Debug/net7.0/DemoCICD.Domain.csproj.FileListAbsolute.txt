@@ -1,0 +1,12 @@
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Domain\bin\Debug\net7.0\DemoCICD.Domain.deps.json
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Domain\bin\Debug\net7.0\DemoCICD.Domain.dll
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Domain\bin\Debug\net7.0\DemoCICD.Domain.pdb
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Domain\obj\Debug\net7.0\DemoCICD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Domain\obj\Debug\net7.0\DemoCICD.Domain.AssemblyInfoInputs.cache
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Domain\obj\Debug\net7.0\DemoCICD.Domain.AssemblyInfo.cs
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Domain\obj\Debug\net7.0\DemoCICD.Domain.csproj.CoreCompileInputs.cache
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Domain\obj\Debug\net7.0\DemoCICD.Domain.dll
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Domain\obj\Debug\net7.0\refint\DemoCICD.Domain.dll
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Domain\obj\Debug\net7.0\DemoCICD.Domain.pdb
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Domain\obj\Debug\net7.0\ref\DemoCICD.Domain.dll
+D:\Work\Web\BackEnd\ASP.NET\StructureCodeSetupCICD\DemoCICD\src\DemoCICD.Domain\obj\Debug\net7.0\DemoCICD.Domain.csproj.AssemblyReference.cache
